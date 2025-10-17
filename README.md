@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:22C55E,100:38BDF8&text=Jorge%20Flores&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Student%20•%20AI%20•%20Cyber%20•%20Games%20•%20Data&descAlignY=55&descAlign=50" alt="Jorge Flores Banner"/>
 </p>
 
-<!-- ✨ Typing effect -->
+<!-- Typing effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+creative+tech+in+code;AI+logic+%7C+Game+mechanics+%7C+Cyber+systems" />
 </p>
@@ -13,12 +13,12 @@
 
 <div align="center">
 
-🧠 **About Me**
+**About Me**
 
-💻 *Computer Science student exploring how AI, cybersecurity, and game design connect.*  
-⚙️ *I enjoy breaking down logic, optimizing code, and creating interactive experiences.*  
-🌎 *Currently building projects in Java, Python, and web technologies.*  
-🎯 *Goal: design systems that blend intelligence, creativity, and performance.*
+*Computer Science student exploring how AI, cybersecurity, and game design connect.*  
+*I enjoy breaking down logic, optimizing code, and creating interactive experiences.*  
+*Currently building projects in Java, Python, and web technologies.*  
+*Goal: design systems that blend intelligence, creativity, and performance.*
 
 </div>
 
@@ -32,17 +32,18 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-- 🧩 **[TicTacToe (AI)](https://github.com/JorgeF123/TicTacToe)** — Unbeatable Minimax opponent built in Java.  
+- **[TicTacToe (AI)](https://github.com/JorgeF123/TicTacToe)** — Unbeatable Minimax opponent built in Java.  
   Uses recursive logic and decision trees to simulate all possible moves.
 
-- 👾 **[Space Shooter](https://github.com/JorgeF123/SpaceShooter)** — Java Swing arcade-style shooter with enemies, collisions, and sprites.  
+- **[Space Shooter](https://github.com/JorgeF123/SpaceShooter)** — Java Swing arcade-style shooter with enemies, collisions, and sprites.  
   Designed smooth mechanics, movement physics, and game state tracking.
 
+- **[ParticleFlow](https://github.com/JorgeF123/ParticleFlow)** — A Java Swing project where hundreds of particles flow across the screen through a dynamic field, moving naturally with simple physics.
 ---
 
-### 🌌 Stats & Insights
+### Stats & Insights
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JorgeF123&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
@@ -51,7 +52,7 @@
 
 ---
 
-### 🌠 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-flores-53432334b">

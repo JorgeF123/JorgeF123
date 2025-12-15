@@ -34,6 +34,9 @@
 
 ### Featured Projects
 
+- **[FullStackWeatherApp](https://github.com/JorgeF123/FullStackWeatherApp)** — Full-stack weather app built with Spring Boot and React.
+  Features real-time weather data, geolocation-based nearby cities
+  
 - **[TicTacToe (AI)](https://github.com/JorgeF123/TicTacToe)** — Unbeatable Minimax opponent built in Java.  
   Uses recursive logic and decision trees to simulate all possible moves.
 

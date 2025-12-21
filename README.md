@@ -36,6 +36,8 @@
 
 - **[FullStackWeatherApp](https://github.com/JorgeF123/FullStackWeatherApp)** — Full-stack weather app built with Spring Boot and React. Features real-time weather data, geolocation-based nearby cities
   
+- **[FullStackToDoApp](https://github.com/JorgeF123/FullStackToDoApp)** — Full-stack todo app with React frontend and Spring Boot backend. Features a modern clipboard-style UI for managing tasks.
+  
 - **[TicTacToe (AI)](https://github.com/JorgeF123/TicTacToe)** — Unbeatable Minimax opponent built in Java. Uses recursive logic and decision trees to simulate all possible moves.
 
 - **[Space Shooter](https://github.com/JorgeF123/SpaceShooter)** — Java Swing arcade-style shooter with enemies, collisions, and sprites. Designed smooth mechanics, movement physics, and game state tracking.
